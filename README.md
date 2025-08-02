@@ -73,19 +73,18 @@ java MultiThreadClient
 ## 📊 Output Comparison
 
 ### Single Threaded
-```
-Client 1 connected
-(Client 2 waits...)
-Client 2 connected (only after Client 1 disconnects)
-```
+<img width="1366" height="768" alt="Screenshot (416)" src="https://github.com/user-attachments/assets/85341243-2871-47e0-8b76-7ef669018518" />
+<img width="1366" height="768" alt="Screenshot (417)" src="https://github.com/user-attachments/assets/ae3f70db-ab40-459d-af28-23a6a8ba8d4f" />
+<img width="1366" height="768" alt="Screenshot (418)" src="https://github.com/user-attachments/assets/65b40517-ad21-4c5e-9b0f-6e02e148dce8" />
+
 
 ### Multi Threaded
-```
-Client 1 connected
-Client 2 connected (immediately, in parallel)
-```
+<img width="1366" height="768" alt="Screenshot (414)" src="https://github.com/user-attachments/assets/3843fba0-d3e7-4255-b3f8-1a98d584a535" />
+<img width="1366" height="768" alt="Screenshot (415)" src="https://github.com/user-attachments/assets/fc5bdc96-28f7-44a7-8d3b-df3a98482f15" />
 
----
+
+
+
 
 ## 📚 Concepts Covered
 
